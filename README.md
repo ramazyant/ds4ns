@@ -12,8 +12,10 @@ Materials for the Research Seminar "Data Analysis in Natural Science"
 
 # Topic 1: Uncertainty estimation #
 
-Report 1: __Team 1__, paper: [Deeply Uncertain: Comparing Methods of Uncertainty Quantification in Deep Learning Algorithms](https://arxiv.org/abs/2004.10710)
-Report 2: __Team 2__, paper: [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474)
+| Team  | Paper |
+| :---: | :---: |
+| Team 1  | [Deeply Uncertain: Comparing Methods of Uncertainty Quantification in Deep Learning Algorithms](https://arxiv.org/abs/2004.10710) |
+| Team 2  | [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474)  |
 
 due date: 26/09/2023
 
