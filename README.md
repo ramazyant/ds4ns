@@ -24,7 +24,7 @@ due date: 26/09/2023
 
 | Team  | Paper |
 | :---: | :---: |
-| Team 1  | [Variational Dropout Sparsification for Particle Identification speed-up](https://iopscience.iop.org/article/10.1088/1742-6596/1525/1/012099) |
-| Team 2  | [CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://arxiv.org/pdf/1712.10321.pdf)  |
+| Team 4  | [Variational Dropout Sparsification for Particle Identification speed-up](https://iopscience.iop.org/article/10.1088/1742-6596/1525/1/012099) |
+| Team 3  | [CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://arxiv.org/pdf/1712.10321.pdf)  |
 
 due date: 10/10/2023
