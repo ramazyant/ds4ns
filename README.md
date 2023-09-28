@@ -6,8 +6,8 @@ Materials for the Research Seminar "Data Analysis in Natural Science"
 | :---: | :---: |
 | Team 1  | Сафин, Гнездилова, Малышева, Чернышева |
 | Team 2  | Свирин, Воронин, Аксенов  |
-| Team 3  | Иванов, Кульжик, Луговцев  |
-| Team 4  | TBD  |
+| Team 3  | Григорьян, Иванов, Кульжик, Луговцев  |
+| Team 4  | Петров, Сысоев, Мирзак  |
 
 
 # Topic 1: Uncertainty estimation #
@@ -20,3 +20,11 @@ Materials for the Research Seminar "Data Analysis in Natural Science"
 due date: 26/09/2023
 
 
+# Topic 2: DL for HEP #
+
+| Team  | Paper |
+| :---: | :---: |
+| Team 1  | [Variational Dropout Sparsification for Particle Identification speed-up](https://iopscience.iop.org/article/10.1088/1742-6596/1525/1/012099) |
+| Team 2  | [CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://arxiv.org/pdf/1712.10321.pdf)  |
+
+due date: 10/10/2023
