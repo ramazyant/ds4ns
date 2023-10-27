@@ -1,4 +1,0 @@
-# put the paths to actual data here!
-positron: 'data/eplus_downsampled.hdf5'
-#pion: 'data/piplus_downsampled.hdf5'
-# gamma: 'data/gamma_downsampled.hdf5'

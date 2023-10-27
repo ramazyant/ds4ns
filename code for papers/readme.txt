@@ -1,1 +1,0 @@
-If you remeber there was an issue why our graph looked a bit different from the one in the paper. It turned out that there was a bug in the code for displaying the graph: while inferencing on notMNIST data our model still could succesfully though randomly guess the correct lable (that is just an index to the list of classes). 
